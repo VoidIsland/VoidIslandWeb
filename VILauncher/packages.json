@@ -2,10 +2,17 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "testpack",
-      "name" : "testpack",
-      "version" : "2022-06-21-02-38-08",
-      "location" : "testpack.json",
+      "title" : "Vanilla 1.19",
+      "name" : "Vanilla-latest",
+      "version" : "2022-06-21-22-19-25",
+      "location" : "vanilla-latest.json",
+      "priority" : 10
+    },
+    {
+      "title" : "OptiFine 1.8.9",
+      "name" : "OptiFine-1.8.9",
+      "version" : "2022-06-21-22-18-54",
+      "location" : "optifine-1.8.9.json",
       "priority" : 0
     }
   ]
