@@ -1,0 +1,40 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "VoidIsland ModJam",
+      "name" : "modjam-1",
+      "version" : "2022-07-03-21-53-12",
+      "location" : "https://packages.voidisland.net/modjam-1/modjam-1.json",
+      "priority" : 20
+    },
+    {
+      "title" : "Vanilla 1.19",
+      "name" : "vanilla-latest",
+      "version" : "2022-07-03-21-53-59",
+      "location" : "https://packages.voidisland.net/vanilla-latest.json",
+      "priority" : 10
+    },
+    {
+      "title" : "Vanilla 1.12.2",
+      "name" : "vanilla-1.12.2",
+      "version" : "2022-07-03-21-53-49",
+      "location" : "https://packages.voidisland.net/vanilla-1.12.2.json",
+      "priority" : 0
+    },
+    {
+      "title" : "Vanilla 1.8.9",
+      "name" : "vanilla-1.8.9",
+      "version" : "2022-07-03-21-53-55",
+      "location" : "https://packages.voidisland.net/vanilla-1.8.9.json",
+      "priority" : 0
+    },
+    {
+      "title" : "OptiFine 1.8.9",
+      "name" : "optifine-1.8.9",
+      "version" : "2022-07-03-21-53-21",
+      "location" : "https://packages.voidisland.net/optifine-1.8.9/optifine-1.8.9.json",
+      "priority" : -10
+    }
+  ]
+}
